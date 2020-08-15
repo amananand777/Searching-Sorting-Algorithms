@@ -1,1 +1,1 @@
-This repository contains the C++ implementation of some of the common sorting and searching algorithms.
+This repository contains the C++ implementation of some of the common searching and sorting algorithms.
